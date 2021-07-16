@@ -43,9 +43,9 @@
                                     <div class="col-md-5">
                                         <div class="form-group">
                                             <label class="bmd-label-floating">customer</label>
-                                            <select name="customer">
+                                            <select name="customer" >
                                                 @forelse($customers as $customer)
-{{--                                                    <option value="{{$customer->id}}">{{$customer->name}}</option>--}}
+                                                    <option value="{{$customer->id}}">{{$customer->name}}</option>
                                                     @empty
                                                     <option value="">select customer</option>
 
