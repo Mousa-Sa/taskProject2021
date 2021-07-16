@@ -1,0 +1,80 @@
+.card-header[data-color="rose"]  {
+    background: linear-gradient(60deg,#e91e63,#e91e63) !important;
+
+}
+
+.card-header[data-color="purple"] {
+    background: linear-gradient(60deg,#9c27b0,#9c27b0) !important;
+
+}
+
+.card-header[data-color="azure"]{
+    background: linear-gradient(60deg,#00bcd4,#00bcd4) !important;
+
+}
+
+.card-header[data-color="green"] {
+    background: linear-gradient(60deg, #4caf50, #4caf50) !important;
+
+}
+
+.card-header[data-color="orange"] {
+    background: linear-gradient(60deg, #ff9800, #ff9800) !important;
+
+}
+
+.card-header[data-color="danger"] {
+    background: linear-gradient(60deg, #f44336, #f44336) !important;
+
+}
+
+.btn-primary[data-color="rose"] {
+    background: linear-gradient(60deg, #e91e63, #e91e63) !important;
+
+}
+
+.btn-primary[data-color="white"] {
+    background: linear-gradient(60deg, #fff, #fff) !important;
+
+}
+.btn-primary[data-color="rose"]  {
+    background: linear-gradient(60deg,#e91e63,#e91e63) !important;
+
+}
+
+.btn-primary[data-color="purple"] {
+    background: linear-gradient(60deg,#9c27b0,#9c27b0) !important;
+
+}
+
+.btn-primary[data-color="azure"]{
+    background: linear-gradient(60deg,#00bcd4,#00bcd4) !important;
+
+}
+
+.btn-primary[data-color="green"] {
+    background: linear-gradient(60deg, #4caf50, #4caf50) !important;
+
+}
+
+.btn-primary[data-color="orange"] {
+    background: linear-gradient(60deg, #ff9800, #ff9800) !important;
+
+}
+
+.btn-primary[data-color="danger"] {
+    background: linear-gradient(60deg, #f44336, #f44336) !important;
+
+}
+
+.btn-primary[data-color="rose"] {
+    background: linear-gradient(60deg, #e91e63, #e91e63) !important;
+
+}
+
+.btn-primary[data-color="white"] {
+    background: linear-gradient(60deg, #fff, #fff) !important;
+
+}
+
+
